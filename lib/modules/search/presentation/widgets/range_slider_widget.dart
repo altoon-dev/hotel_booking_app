@@ -143,6 +143,8 @@ class CustomRangeThumbShape extends RangeSliderThumbShape {
             case Thumb.end:
               thumbPath = _leftTriangle(size, center);
               break;
+            case null:
+              // TODO: Handle this case.
           }
           break;
         case TextDirection.ltr:
@@ -153,6 +155,8 @@ class CustomRangeThumbShape extends RangeSliderThumbShape {
             case Thumb.end:
               thumbPath = _rightTriangle(size, center);
               break;
+            case null:
+              // TODO: Handle this case.
           }
           break;
       }

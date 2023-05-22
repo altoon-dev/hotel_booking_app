@@ -69,6 +69,7 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("Forgot your password?"),
         "from": MessageLookupByLibrary.simpleMessage("From"),
         "getStarted": MessageLookupByLibrary.simpleMessage("Get started"),
+        "hostel": MessageLookupByLibrary.simpleMessage("Hostel"),
         "hotel": MessageLookupByLibrary.simpleMessage("Hotel"),
         "howCanWeHelp":
             MessageLookupByLibrary.simpleMessage("How can we help?"),
@@ -82,7 +83,6 @@ class MessageLookup extends MessageLookupByLibrary {
         "login": MessageLookupByLibrary.simpleMessage("Login"),
         "london": MessageLookupByLibrary.simpleMessage("London..."),
         "moreDetails": MessageLookupByLibrary.simpleMessage("More Details"),
-        "motel": MessageLookupByLibrary.simpleMessage("Motel"),
         "myTrips": MessageLookupByLibrary.simpleMessage("My Trips"),
         "newPassword": MessageLookupByLibrary.simpleMessage("New Password"),
         "numberOfRooms":

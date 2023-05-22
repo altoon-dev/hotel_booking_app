@@ -47,7 +47,7 @@ class AppTheme {
       indicatorColor: Colors.white,
       splashColor: Colors.white24,
       splashFactory: InkRipple.splashFactory,
-      accentColor: secondaryColor,
+      hintColor: secondaryColor,
       canvasColor: Colors.white,
       scaffoldBackgroundColor: const Color(0xFFF6F6F6),
       errorColor: const Color(0xFFB00020),
@@ -74,7 +74,7 @@ class AppTheme {
       indicatorColor: Colors.white,
       splashColor: Colors.white24,
       splashFactory: InkRipple.splashFactory,
-      accentColor: secondaryColor,
+      hintColor: secondaryColor,
       canvasColor: Colors.white,
       scaffoldBackgroundColor: const Color(0xFF0F0F0F),
       buttonTheme: ButtonThemeData(

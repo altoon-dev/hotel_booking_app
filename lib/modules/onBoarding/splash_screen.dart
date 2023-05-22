@@ -60,7 +60,7 @@ class _SplashPageState extends State<SplashPage> {
                   height: 16,
                 ),
                 Text(
-                  S.of(context).motel,
+                  S.of(context).hostel,
                   textAlign: TextAlign.left,
                   style: TextStyle(
                     fontWeight: FontWeight.w600,

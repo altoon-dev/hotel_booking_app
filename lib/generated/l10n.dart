@@ -390,11 +390,11 @@ class S {
     );
   }
 
-  /// `Motel`
-  String get motel {
+  /// `Hostel`
+  String get hostel {
     return Intl.message(
-      'Motel',
-      name: 'motel',
+      'Hostel',
+      name: 'hostel',
       desc: '',
       args: [],
     );
